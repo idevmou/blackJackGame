@@ -2,9 +2,6 @@
 Let's play blackJackGame!!!!!!
 ![](img2.PNG)
 # Above image is sample of my work
-
-You can also see the pages available for my work - https://github.com/idevmou/blackJackGame
-
 How to play this game :
 <ul>
 <li>If you have total number of cards 21 you won the match</li>
