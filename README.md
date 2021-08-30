@@ -1,6 +1,6 @@
 # blackJackGame
 Let's play blackJackGame!!!!!!
-![](img2.png)
+![](img2.PNG)
 # Above image is sample of my work
 
 You can also see the pages available for my work - https://github.com/idevmou/blackJackGame
