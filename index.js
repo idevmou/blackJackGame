@@ -4,7 +4,7 @@ let message = ""
 isAlive = true
 youHasAJackAgain = false
 let playerInfo = {
-    name: "You've won",
+    name: "You have won",
     credit: "$250"}
 let playerBio = document.getElementById("player-el")
 let sumEl = document.getElementById("sum-el")
